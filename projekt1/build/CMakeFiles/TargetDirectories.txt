@@ -1,0 +1,3 @@
+/home/nelly/ela22/projekt1/build/CMakeFiles/run_projekt1.dir
+/home/nelly/ela22/projekt1/build/CMakeFiles/edit_cache.dir
+/home/nelly/ela22/projekt1/build/CMakeFiles/rebuild_cache.dir

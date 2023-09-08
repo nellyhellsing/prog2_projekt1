@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/run_projekt1.dir/home/nelly/ela22/projekt1/src/main.c.o CMakeFiles/run_projekt1.dir/home/nelly/ela22/projekt1/src/gpiod_utils.c.o CMakeFiles/run_projekt1.dir/home/nelly/ela22/projekt1/src/semaphore.c.o -o /home/nelly/ela22/projekt1/run_projekt1  -lgpiod -lpthread 
